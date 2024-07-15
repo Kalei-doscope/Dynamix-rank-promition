@@ -1,0 +1,151 @@
+@font-face {
+	font-family: dynamix;
+	src: url(Dynamix.ttf);
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+.a1 /*title*/ {
+	color: rgba(214, 205, 253, 0.966);
+	text-shadow: 2px 2px 30px rgb(245, 218, 240);
+	font-size: 100px;
+	text-align: center;
+	font-style: italic;
+	margin-bottom: 125px;
+	font-family: dynamix;
+	margin-top: 75px;
+} /*end*/
+#outline {
+	position: fixed;
+	top: 0;
+	width: calc(100% - 16px);
+	height: calc(100% - 16px);
+	border: solid 8px rgba(155, 243, 255, 0.911);
+	pointer-events: none;
+}
+.a2 {
+	color: rgba(17, 224, 224, 0.61);
+	text-shadow: 1px 1px 5px rgb(226, 248, 204);
+	font-size: 78px;
+	margin-left: 70px;
+	font-family: dynamix;
+}
+.a3 {
+	color: rgba(255, 175, 26, 0.664);
+	text-shadow: 1px 1px 5px rgb(226, 248, 204);
+	font-size: 40px;
+	margin-left: 25px;
+	font-family: dynamix;
+}
+.a4 {
+	color: rgba(107, 140, 145, 0.616);
+	text-shadow: 1px 1px 5px rgb(226, 248, 204);
+	font-size: 45px;
+	font-family: dynamix;
+}
+.ct /*contentTitle*/ {
+	color: rgba(9, 234, 250, 0.61);
+	text-shadow: 0px 0px 5px rgb(68, 255, 199);
+	font-size: 55px;
+	font-family: dynamix;
+}
+.number {
+	color: rgba(212, 147, 250, 0.521);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 55px;
+	margin-left: 55px;
+	font-family: dynamix;
+}
+.c /*content*/ {
+	color: rgba(114, 245, 227, 0.856);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 35px;
+	margin-left: 75px;
+	font-family: dynamix;
+	margin-bottom: 50px;
+}
+.clf /*conten-line-feed*/ {
+	color: rgba(114, 245, 227, 0.856);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 35px;
+	margin-left: 0px;
+	font-family: dynamix;
+}
+
+#little-c {
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+}
+.mc/*mainContainer*/ {
+	position: relative;
+	width: 1750px;
+	height: 220px;
+	background: rgb(36, 37, 37);
+}
+.mol/*mainOutline*/ {
+	width: 1750px;
+	height: 220px;
+	border: solid 8px rgba(136, 127, 111, 0.623);
+}
+#qq {
+	position: fixed;
+	left: 10px;
+	bottom: 10px;
+	color: rgba(225, 228, 255, 0.856);
+	text-shadow: 0px 0px 5px rgba(117, 231, 89, 0.884);
+	font-size: 25px;
+	font-family: dynamix;
+}
+.a5 {
+	color: rgba(255, 198, 198, 0.61);
+	text-shadow: 1px 1px 5px rgb(226, 248, 204);
+	font-size: 68px;
+	text-align: center;
+	font-family: dynamix;
+}
+.dyrwl /*Dynamix Rank website link*/ {
+	color: rgba(248, 181, 150, 0.856);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 35px;
+	margin-left: 70px;
+	font-family: dynamix;
+	position: fixed;
+	right: 575px;
+	top: 22px;
+}
+.wp/*webPage*/ {
+	color: rgba(210, 240, 77, 0.856);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 40px;
+	margin-left: 5px;
+	font-family: dynamix;
+	position: fixed;
+	right: 20px;
+	top: 10px;
+}
+.uu {
+	width: 20%;
+	height: 20%;
+	margin-top: 200px;
+	margin-left: 600px;
+	margin-bottom: 200px;
+}
+.webline {
+	color: rgba(175, 234, 252, 0.685);
+	text-shadow: 1px 1px 100px rgb(226, 248, 204);
+	font-size: 68px;
+	font-family: dynamix;
+	text-decoration-line: none;
+	margin-left: 550px;
+}
+.ul/*underLine*/ {
+	color: rgba(114, 245, 227, 0.856);
+	text-shadow: 0px 0px 5px rgba(145, 255, 117, 0.836);
+	font-size: 35px;
+	font-family: dynamix;
+	margin-top: 100px;
+	margin-bottom: 40px;
+	margin-left: -70px;
+}
